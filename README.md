@@ -32,6 +32,13 @@ These data must be:
     - Nova
     - Atlas platform
     - Wheeled
-- 
+- EM and IR decay rate over time
+    - per component?
+    - affected by hull?
+- Function for detection range based on ground vehicle emissions
+- [Multipliers by radar size](docs/radar-size-multipliers.md)
+### Deployment
+- HALO test all vehicles
+- LAPES test all vehicles
 ***
 # Completed Tests
