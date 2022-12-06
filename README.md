@@ -42,3 +42,13 @@ These data must be:
 - LAPES test all vehicles
 ***
 # Completed Tests
+### FPS Mechanics
+- Backback hitboxes
+- Clothing and equipment effect on physical abilities (sprint)
+- Player render distance (mostly sniper effectiveness)
+    - Correlation with available server metrics
+    - Correlation with density of players in area
+- respawn invisibility
+### Vehicle Mechanics
+- proximity doors triggering
+- damage needed for door/ramp malfunction
